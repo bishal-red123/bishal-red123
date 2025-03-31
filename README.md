@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishal-red123&label=Profile%20views&color=0e75b6&style=flat" alt="bishal-red123" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning And NNPs**
+- 🌱 I’m currently learning **Machine Learning And NLPs**
 
 - 📫 How to reach me **bishal.mondal309@gmail.com**
 
